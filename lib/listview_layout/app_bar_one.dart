@@ -30,7 +30,7 @@ class AppBarOne extends StatelessWidget{
       ),
       child: Center(
         child: Text(
-          "DESIGNERS",
+          "APP FLUTTER",
           style: TextStyle(
             fontSize: 20.0,
             fontWeight: FontWeight.bold,
